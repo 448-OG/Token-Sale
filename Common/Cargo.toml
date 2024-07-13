@@ -11,4 +11,3 @@ version.workspace = true
 
 [dependencies]
 borsh.workspace = true
-bytes.workspace = true

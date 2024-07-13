@@ -1,2 +1,2 @@
-mod metadata;
-pub use metadata::*;
+mod commands;
+pub use commands::*;
